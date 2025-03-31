@@ -8,7 +8,7 @@ public class SwitchExample {
     public void switchExample(int variable) {
         switch(variable) {
             case 0:
-                System.out.println("    You said zero");
+                System.out.println("    You said nothing");
                 break;
             case 1:
             case 2:
