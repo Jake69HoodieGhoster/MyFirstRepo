@@ -8,7 +8,7 @@
 public class EnumExamples {
 
     public void demoIf(Weekdays day) {
-        if (day == Weekdays.SUNDAY){
+        if (day == Weekdays.MONDAY){
             System.out.println("I can sleep all the day!");
         }
         else{
